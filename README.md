@@ -2,11 +2,6 @@
 
 Hi, I’m currently pursuing a Bachelor of Science degree in Artificial Intelligence at the University of Moratuwa. I’m passionate about AI/ML. As an IT enthusiast, I’m constantly exploring new technologies and looking for ways to innovate. I’m eager to apply my knowledge in AI and tech across diverse creative and technical projects!
 
-> “I’m not a visionary. I just find things that work and reuse them.”  
-> — Linus Torvalds
-
----
-
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbsarMohammed)
@@ -35,9 +30,12 @@ Hi, I’m currently pursuing a Bachelor of Science degree in Artificial Intellig
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <i>“I’m not a visionary. I just find things that work and reuse them.”</i><br/>
+  — Linus Torvalds
+</p>
 
 ---
 
