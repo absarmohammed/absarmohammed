@@ -34,7 +34,7 @@ Hi, I’m currently pursuing a Bachelor of Science degree in Artificial Intellig
 
 <p align="center">
   <i>“I’m not a visionary. I just find things that work and reuse them.”</i><br/>
-  — Linus Torvalds
+   Linus Torvalds
 </p>
 
 ---
